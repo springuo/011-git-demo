@@ -13,5 +13,6 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("WKCTO 欢迎同学们！");
+        System.out.println("WKCTO 欢迎同学们！");
     }
 }
